@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\bin\Debug\netcoreapp3.1\StonatecConsole.exe
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\bin\Debug\netcoreapp3.1\StonatecConsole.deps.json
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\bin\Debug\netcoreapp3.1\StonatecConsole.runtimeconfig.json
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\bin\Debug\netcoreapp3.1\StonatecConsole.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\bin\Debug\netcoreapp3.1\StonatecConsole.dll
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\bin\Debug\netcoreapp3.1\StonatecConsole.pdb
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\obj\Debug\netcoreapp3.1\StonatecConsole.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\obj\Debug\netcoreapp3.1\StonatecConsole.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\obj\Debug\netcoreapp3.1\StonatecConsole.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\obj\Debug\netcoreapp3.1\StonatecConsole.AssemblyInfo.cs
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\obj\Debug\netcoreapp3.1\StonatecConsole.dll
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\obj\Debug\netcoreapp3.1\StonatecConsole.pdb
+C:\Users\PC\source\repos\Stonatec\StonatecConsole\obj\Debug\netcoreapp3.1\StonatecConsole.genruntimeconfig.cache
